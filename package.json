@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Eniola-Bakare/buildingCLI2.git"
+    "url": "git+https://github.com/Eniola-Bakare/building-cli.git"
   },
   "keywords": [
     "CLI"
@@ -16,9 +16,9 @@
   "author": "eniola bakare",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Eniola-Bakare/buildingCLI2/issues"
+    "url": "https://github.com/Eniola-Bakare/building-cli/issues"
   },
-  "homepage": "https://github.com/Eniola-Bakare/buildingCLI2#readme",
+  "homepage": "https://github.com/Eniola-Bakare/building-cli#readme",
   "dependencies": {
     "buildingcli2": "^1.0.0"
   }
