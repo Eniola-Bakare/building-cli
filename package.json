@@ -1,0 +1,25 @@
+{
+  "name": "buildingcli2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eniola-Bakare/building-cli.git"
+  },
+  "keywords": [
+    "CLI"
+  ],
+  "author": "eniola bakare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eniola-Bakare/building-cli/issues"
+  },
+  "homepage": "https://github.com/Eniola-Bakare/building-cli#readme",
+  "dependencies": {
+    "buildingcli2": "^1.0.0"
+  }
+}
